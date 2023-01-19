@@ -23,12 +23,5 @@ body{
     color: #E5E7EB;
 }
 
-.navbar{
-    display: flex;
-    flex-direction: row;
-}
 
-ul{
-    display: flex;
-    flex-direction: row;
-}
+
