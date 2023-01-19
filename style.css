@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
 body{
@@ -23,5 +24,12 @@ body{
     color: #E5E7EB;
 }
 
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
 
-
+ul{
+    display: flex;
+    flex-direction: row;
+}
