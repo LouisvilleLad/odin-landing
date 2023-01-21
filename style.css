@@ -52,15 +52,40 @@ h1{
     margin: 50px;
 }
 
-.content-left, .navbar-right{
+.navbar-right{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: 50%;  
+}
+
+.content-left{
+    display: flex;
+    flex-direction: column;
     width: 50%;
-    
+    justify-content: center;
+    margin-left: 220px;
 }
 
 img{
-    margin: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+
+.p-first{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-top: 20px;
+}
+
+.sign-up-first-section{
+    background-color: #3882F6;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border: 1px #3882F6;
+    border-radius: 10px;
+    margin-right: 220px;
+    margin-top: 20px;
 }
