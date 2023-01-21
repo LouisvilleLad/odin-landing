@@ -100,6 +100,13 @@ h2{
 .row-of-blue-divs{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    padding: 2px;
+    justify-content: space-between ;
+    word-spacing: 3px;   
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 100px;
 }
 
 .box-blue{
