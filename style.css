@@ -103,10 +103,10 @@ h2{
     justify-content: center;
     padding: 2px;
     justify-content: space-between ;
-    word-spacing: 3px;   
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 100px;
+    max-width: 100%;
+    margin: 100px;
+    align-items: center;
+    
 }
 
 .box-blue{
@@ -114,4 +114,9 @@ h2{
     width: 133px;
     height: 133px;
     border-radius: 20px;
+}
+
+.p-second{
+    text-align: center;
+    font-size: 18px;
 }
