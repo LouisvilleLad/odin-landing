@@ -143,3 +143,20 @@ h3{
     font-weight: bolder;
     padding-left: 333px;
 }
+
+.fourth-section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container{
+    background-color: #3882F6;
+    width: 65%;
+    height: 35%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
