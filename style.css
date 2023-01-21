@@ -11,6 +11,7 @@ body{
 
 .header{
     background-color: #1f2937;
+    height: 400px;
 }
 
 #header-logo{
@@ -184,4 +185,17 @@ button{
     border: 3px red;
     border-radius: 25px;
     margin-right: 220px;
+}
+
+.footer{
+    background-color: #1f2937;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p-footer{
+    color: white;
+    opacity: 75%;
 }
